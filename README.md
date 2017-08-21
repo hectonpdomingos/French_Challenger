@@ -1,4 +1,6 @@
-# French_Challenger
+# French_Challenger  
+
+Autor: Hecton P. Domingos
 
 How much can you learn in 3 months?
 
