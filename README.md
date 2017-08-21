@@ -1,9 +1,9 @@
 # French_Challenger
 
-How much you can learn in one week?
+How much can you learn in 3 months?
 
-I have been always in love for languages, even if I did not mastered any (I tried English, Russian and now I will with French)
-until this time I always tried my best to learn. Now, I have a plan to move to Canada and I really need to learn as 
+I have been always in love for languages, even if I did not mastered any (I tried English, Russian and now I will with French).
+Now, I have a plan to move to Canada and I really need to learn as 
 much French as I can to pass in the exam.
 
 My wife is ahead of me in this this one, she is already intermediate in this language.
