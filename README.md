@@ -16,4 +16,4 @@ The goal is to have in 3 months A2 or B1 in French.
 
 I started today 08/21/17 with simple sentences and words that I catched on YT.
 I will practice everyday and I will record a audio and upload to github or soundcloud.
-After this period I will record a video on YT give impressions.
+After this period I will record a video on YT giving impressions about this experience.
