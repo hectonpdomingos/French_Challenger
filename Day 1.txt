@@ -6,6 +6,13 @@ Yes [Oui]
 No [Non]
 Ok [D'accord]
 
+Good Evening [Bonsoir]
+Good night   [Bonne noit]
+
+What time is it? [Il est quelle heure?   | Quelle heure est-il?]
+
+
+Good evening everyone! [Bonsoir tout le monde!]
 Thank you [Merci]
 Thank you very much [Merci beaucoup]
 You are welcome [De rien]
@@ -13,9 +20,14 @@ Please (asking) [S'il te plaît]
 
 Ckeck, Please [L'addition s'il vous plaît]
 
-What is you name?  [Comment ta'applelles-tu? | Comment tu t'applelles?]
-My name is.. [Je m'appelle ...]
 How are you? [Comment vas-tu?  | Comment ça va? ]
+What is you name?  [Comment ta'applelles-tu? | Comment tu t'applelles?]
+Nice to meet you [ Enchanté(e)]
+My name is.. [Je m'appelle ...]
+
+See you soon. [A bientôt]
+See you tomorrow [A demain]
+Good bey [Au revoir]
 
 I am ....years old [J'ai 31 ans]
 I live in... [J'habitte au Bresil]
@@ -30,9 +42,9 @@ Did you ever come to France? [Es-tu déjà venu(e) en France?]
 Is it your first time in France? [Est-ce que c'est ta première fois en France?] 
 
 
-Where did you learn French? [Où as-tu aprris le français?]
+Where did you learn French? [Où as-tu apris le français?]
 Where do you live? [Où habitez-vous?]
-Where is the bathroom? [Òu sont les toilettes?]
+Where is the bathroom? [Où sont les toilettes?]
 Where do you work? [Où traveilez-vous?]
 What is your job? | What are you working in? [Quel est ton travil? | Dans quoi travailles-tu? ]
 
