@@ -17,6 +17,9 @@ Take the train [Prende le train]
 Take something [prendre quelque chose]
 take your time [prendre son temps]
 
+
+
+
 Find [trouver]
 I found something [J'ai trouvé quelque chose!]
 I found the solution [J'ai trouvé la solution]
@@ -53,10 +56,25 @@ Watch [regarder]
 To watch a movie [regarder un film]
 To watch a match [regarder un match]
 
+like [aimer]
+I like chocolate [J'aime le chocolat]
+
+believe [croire]
+I believe in you [Je crois en toi!]
+
+eat [manger]
+I believe it's time to eat [ Je crois qu'il est l'heure de manger]
+I like to eat [J'aime manger]
+
+Drink [boire]
+to drink fruit juice [boire un jus de fruits]
 
 
+play [Jouer]
+to play a video game [jouer à des jeux vidéo]
 
 
 go walking [aller se balader]
 go to the kitchen [aller à la cuisine]
 to go on a trip [aller voyager]
+Go away! [Va-t-en!]
