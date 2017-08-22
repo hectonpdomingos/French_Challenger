@@ -25,6 +25,24 @@ I found something to eat [J'ai trouvé de quoi manger]
 
 give [donner]
 to give money [donner de l'argent]
+To give a presents [donner un cadeau]
+
+need to [falloir]
+I need to do my hair [Il faut que je me coupe les cheveux]
+I need to think of a sentence [Il faut que je pense à une phrase]
+
+speak [parler]
+You can speak a language [Parler une langue]
+Speak French [Parlez français]
+
+I'm not speaking to you anymore [Je ne te parle plus!]
+
+Put [mettre]
+to put something on your head [mettre quelque chose sur sa tête]
+to put your clothes on [ses vêtements]
+
+
+
 
 
 
