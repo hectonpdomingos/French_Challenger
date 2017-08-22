@@ -32,6 +32,9 @@ Good bey [Au revoir]
 Of course [Bien sûr]
 I am sorry [Je uis désolé(e)]
 
+Really? [C'est vrai?]
+It's not true [C'est pas vrai]
+
 I am ....years old [J'ai 31 ans]
 I live in... [J'habitte au Bresil]
 I am begginner in French [J'ai commencé á aprendre le français]
