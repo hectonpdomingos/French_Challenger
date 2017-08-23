@@ -20,3 +20,9 @@ Doing it the same way [Le faire de la même manière]
 Other [autre]
 
 Do you have it in another color? [L'avez-vous dans une autre couler?]
+Do you have it in another size? [Est-ce que vous l'avez dans une autre taille?]
+
+only/lonely [seul]
+only one [un seul]
+
+I'm doing alone [J'y vais seul(e)]
