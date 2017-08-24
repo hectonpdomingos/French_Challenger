@@ -26,3 +26,7 @@ only/lonely [seul]
 only one [un seul]
 
 I'm doing alone [J'y vais seul(e)]
+
+I am feeling lonely [ Je me sens seul(e)]
+
+young [jeune]
